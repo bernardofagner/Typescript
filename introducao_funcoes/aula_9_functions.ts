@@ -1,4 +1,5 @@
-// Atencao aa sintaxe
+// Atencao aa sintaxe.
+//A sintaxe a?: number eh equivalente a a:number = 0. Pois o default de um number eh 0.
 function somar(a:number = 0, b:number = 0) :number{
     return a + b;
 }
