@@ -1,0 +1,21 @@
+Aula 2 -  OVERVIEW{
+    Unidade 1: Introducao
+    Unidade 2: Recursos básicos
+    Unidade 3: Classes e interfaces
+    Unidade 4: Revisando Ambiente de desenvolvimento
+    Unidade 5: Desenvolvimento
+}
+
+Aula 2 - EXAMINANDO PROBLEMAS DO JAVASCRIPT {}
+Aula 3 - COMO O TYPESCRIPT FUNCIONA {}
+Aula 4 - TYPESCRIPT VS JAVASCRIPT {}
+Aula 5 - INSTALANDO E CONFIGURANDO O TYPESCRIPT{
+    Instalar o NodeJs;
+
+    Instalar o compilador de Typescript <npm install typescript> isso instala no diretório em que se está. <npm install typescript -g> instala o typescript globalmente;
+
+    Instalar o Visual Studio Code;
+}
+
+Aula 6 - INTRODUÇÃO A DECLARAÇÕES{}
+Aula 7 - JAVASCRIPT BÁSICO {}
