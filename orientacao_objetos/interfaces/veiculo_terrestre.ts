@@ -2,14 +2,14 @@ interface VeiculoTerrestre{
     NumeroDeRodas: number;
     CodigoChassi: string;
 
-    //metodos obrigatorios a serem implementados
+    //Assinatura de metodos obrigatorios a serem implementados
     setCodigoChassi(codigoChassi: string);
     getCodigoChassi(): string;
     getInformacaoLegal(): string;
 
 }
 
-//Uma classe que implementa uma interface deve declarar todas as propriedades presentes na interface e implemetar todos os metodos definidos na interface
+//Uma classe que implementa uma interface deve declarar todas as propriedades presentes na interface e implemetar todos os metodos assinados na interface
 class Carro implements VeiculoTerrestre{
     
     NumeroDeRodas: number;    
